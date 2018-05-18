@@ -8,7 +8,6 @@
             "email": "1170713834@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
 	"autoload":{
 		"psr-4" :{

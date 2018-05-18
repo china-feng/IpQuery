@@ -1,0 +1,18 @@
+{
+    "name": "china-feng/ip_query",
+    "description": "php ip query",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "china-feng",
+            "email": "1170713834@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4" :{
+			"china-feng\\IpLocation\\":"src/"
+		}
+	}
+}
